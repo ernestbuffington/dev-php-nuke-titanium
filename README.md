@@ -6,6 +6,11 @@
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fernestbuffington%2FPHP-Nuke.Titanium.Dev.4.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fernestbuffington%2FPHP-Nuke.Titanium.Dev.4?ref=badge_shield)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e5300f0dccdb4bcc9b7bdbc5d6e65f50)](https://www.codacy.com/gh/ernestbuffington/PHP-Nuke.Titanium.Dev.4/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ernestbuffington/PHP-Nuke.Titanium.Dev.4&amp;utm_campaign=Badge_Grade)
 
+<h2>This Repo is not the normal PHP-Nuke Titanium (It Contains Experimental Code)</h2>
+<ul>
+	<li><b>USe This at your own risk!</b></li>
+</ul>
+
 <h2>PHP-Nuke Titanium 2022 Nightly Build Repo</h2>
 
 <p>This code is running live at https://www.dev-php-nuke-titanium.86it.us</p>
