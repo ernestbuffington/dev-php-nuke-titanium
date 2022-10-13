@@ -8,6 +8,7 @@
 
 <h2>This Repo is not the normal PHP-Nuke Titanium</br>(It Contains Experimental Code)</h2>
 <ul>
+	<li><b>You will need Network Database Access for the Network Projects Module</b>- edit your nconfig.php file</li>
 	<li><b>Use This Code At Your Own Risk!</b></li>
 </ul>
 
