@@ -8,7 +8,7 @@
 
 <h2>This Repo is not the normal PHP-Nuke Titanium</br>(It Contains Experimental Code)</h2>
 <ul>
-	<li><b>USe This at your own risk!</b></li>
+	<li><b>Use This Code At Your Own Risk!</b></li>
 </ul>
 
 <h2>PHP-Nuke Titanium 2022 Nightly Build Repo</h2>
