@@ -1,7 +1,7 @@
 <?php
 
 /*=======================================================================
- PHP-Nuke Titanium | Nuke-Evolution Xtreme : PHP-Nuke Web Portal System
+ Nuke-Evolution Xtreme: Enhanced PHP-Nuke Web Portal System
  =======================================================================*/
 /************************************************************************
   Nuke-Evolution: Advanced Installer
@@ -396,7 +396,7 @@ function validate_admin(){
  [ Mod:    Auto First User Login               v1.0.0 ]
  ******************************************************/
         $user_regdate = date('M d, Y');
-        $user_avatar = 'blank.gif';
+        $user_avatar = 'blank.png';
         $commentlimit = 4096;
         if ($_POST['admin_website'] == 'http://'){
 			$url = '';
