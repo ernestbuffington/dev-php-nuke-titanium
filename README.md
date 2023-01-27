@@ -18,7 +18,7 @@
     $dbpass2 = 'you need to request an access password to put here';
     $network_prefix = 'network';
     endif;</code>
-	<li><b>Use This Code At Your Own Risk!</b></li>
+	<li><b>This Config is needed to submit Bug Reports!</b></li>
 </ul>
 
 <h2>PHP-Nuke Titanium 2022 Nightly Build Repo</h2>
