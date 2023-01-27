@@ -9,6 +9,20 @@
 <h2>This Repo is not the normal PHP-Nuke Titanium</br>(It Contains Experimental Code)</h2>
 <ul>
 	<li><b>You will need Network Database Access for the Network Projects Module</b>- edit your nconfig.php file</li>
+	<code>
+	$portaladmin = 2;
+
+    define('network', 'enabled');
+
+    if ( defined('network') ):
+    $dbhost2 = 'your.domain.name.here';
+    $dbname2 = 'hub_db';
+    $dbuname2 = 'hub_user';
+    $dbpass2 = 'you need to request an access password to put here';
+    $network_prefix = 'network';
+    endif;
+	
+    </code>
 	<li><b>Use This Code At Your Own Risk!</b></li>
 </ul>
 
