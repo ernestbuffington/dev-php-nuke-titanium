@@ -14,7 +14,7 @@
     if ( defined('network') ):
     $dbhost2 = 'your.domain.name.here';
     $dbname2 = 'hub_db';
-    $dbuname2 = 'hub_user';
+    $dbuname2 = 'ask for a hub user name and put it here';
     $dbpass2 = 'you need to request an access password to put here';
     $network_prefix = 'network';
     endif;</code>
