@@ -10,9 +10,7 @@
 <ul>
 	<li><b>You will need Network Database Access for the Network Projects Module</b>- edit your nconfig.php file</li>
 	<code>$portaladmin = 2;
-
     define('network', 'enabled');
-
     if ( defined('network') ):
     $dbhost2 = 'your.domain.name.here';
     $dbname2 = 'hub_db';
