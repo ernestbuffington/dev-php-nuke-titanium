@@ -20,10 +20,10 @@ global $portaladmin, $dbhost2, $dbname2, $dbuname2, $db2, $network_prefix;
 $portaladmin = 2;
 define('network', 'enabled');
 if ( defined('network') ):
-$dbhost2 = 'localhost';
+$dbhost2 = 'hub.86it.us';
 $dbname2 = 'hub_db';
 $dbuname2 = 'hub_user';
-$dbpass2 = '';
+$dbpass2 = 'your_hub_password_here';
 $network_prefix = 'network';
 endif;
 ?>
